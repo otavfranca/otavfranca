@@ -13,4 +13,5 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
-![[https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif](link)
+![](https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif)
+
