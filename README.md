@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**otavfranca/otavfranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu perfil 💙💙
 
-Here are some ideas to get you started:
+Meu nome é otavio frança
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
+
+@alurastartestudante
+
+![https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif](link)
